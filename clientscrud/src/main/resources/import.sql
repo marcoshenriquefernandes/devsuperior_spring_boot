@@ -1,0 +1,15 @@
+insert into tb_client (name, cpf, income, birth_date, children) values ('Anakin Skywalker', '12345678900', 5000, '1997-02-22', 2);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Luke Skywalker', '78945612311', 3500, '1981-03-10', 0);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Padmé Amidala', '11122233399', 500, '2010-12-21', 2);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Ezra Bridger', '22233344400', 36000, '1999-10-15', 0);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Obi-Wan Kenobi', '44455566622', 15000, '2000-04-01', 0);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Sheev Palpatine', '55566677733', 8000, '1981-11-11', 1);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Chewbacca', '66677788844', 359, '2003-09-02', 4);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Yoda', '99900011155', 5699, '1997-08-03', 3);
+insert into tb_client (name, cpf, income, birth_date, children) values ('C-3PO', '33344455566', 68744, '1997-07-04', 0);
+insert into tb_client (name, cpf, income, birth_date, children) values ('R2-D2', '77788899977', 23655, '1997-06-05', 0);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Jabba the Hutt', '88899900088', 5599, '1997-05-06', 1);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Cad Bane', '99900011199', 2600, '1997-04-07', 0);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Leia Organa', '11199933311', 1900, '1997-03-08', 1);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Han Solo', '12213314400', 3850, '1997-02-09', 1);
+insert into tb_client (name, cpf, income, birth_date, children) values ('Boba Fett', '32132132111', 7520, '1997-01-11', 1);
