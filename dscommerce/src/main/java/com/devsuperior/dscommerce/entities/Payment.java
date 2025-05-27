@@ -1,7 +1,6 @@
 package com.devsuperior.dscommerce.entities;
 
 import jakarta.persistence.*;
-import org.springframework.boot.autoconfigure.web.WebProperties;
 
 import java.time.Instant;
 
